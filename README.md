@@ -8,4 +8,5 @@ Here are my http://www.shiyanbar.com practice record.
 * 逆向工程
 * 隐写术
 * 编程
+	* 代码：[Joseph_cycle.py](https://github.com/visionlai/ctf_practice/blob/master/Joseph_cycle.py)&nbsp;&nbsp;原题地址：[约瑟夫环](http://www.shiyanbar.com/ctf/1866)
 * 溢出
